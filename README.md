@@ -1,4 +1,4 @@
-# SOCIAL MEDIA COMMENTBOT
+# SOCIAL MEDIA COMMENT_BOT
 
 This is an test application made to check if LLM can react to image based on the defined characters
 
